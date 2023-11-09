@@ -9,7 +9,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-11-08T19:57:01.435449Z'
 publication_types: 
-- 'paper-conference'
+- paper-conference
 publication: '*Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*'
 - name: Paper
   url: https://www.cs.tulane.edu/~zzheng3/publication/Pandering_in_FRD.pdf
