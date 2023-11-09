@@ -38,10 +38,10 @@ education:
   courses:
     - course: PhD Candidate in Computer Science
       institution: Tulane University
-      year: 2020 - Present
+      year: 2020-Present
     - course: Bachelor of Arts in Mathematical Economics and Computer Science
       institution: Colgate University
-      year: 2016 - 2020
+      year: 2016-2020
 
 # Skills
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons

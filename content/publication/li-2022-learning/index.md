@@ -11,7 +11,7 @@ author_notes:
 date: '2022-01-01'
 publishDate: '2023-11-08T19:57:01.414326Z'
 publication_types: 'paper-conference'
-publication: '*Advances in Neural Information Processing Systems*'
+publication: '*Advances in Neural Information Processing Systems (NeurIPS)*'
 
 links:
 - name: Paper
