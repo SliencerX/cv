@@ -75,6 +75,13 @@ sections:
           date_start: '2020-09-01'
           date_end: '2021-09-01'
           description: Holding Lab sessions and office hours for Intro to Computer Science and Computer Organizations courses
+        - title: Research Assistant
+          company: Tulane University
+          company_url: ''
+          location: New Orleans, LA
+          date_start: '2021-09-01'
+          date_end: ''
+          description: I worked as a research assistant for Prof.Zizhan Zheng. I have worked projects on multi-agent reinforcement learning and robust reinforcement learning.
         # - title: CEO
         #   company: GenCoin
         #   company_url: ''
