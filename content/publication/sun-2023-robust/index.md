@@ -10,6 +10,6 @@ publication_types:
 - paper-conference
 publication: "*Multi-Agent Security Workshop @ NeurIPS'23*"
 links:
-- name: URL
+- name: Paper
   url: https://openreview.net/forum?id=5U8PGlJt2S
 ---

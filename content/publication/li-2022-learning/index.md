@@ -16,8 +16,10 @@ publication: '*Advances in Neural Information Processing Systems*'
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://openreview.net/pdf?id=4OHRr7gmhd4
-url_code: https://github.com/SliencerX/Learning-to-Attack-Federated-Learning
+- name: Paper
+  url: https://openreview.net/pdf?id=4OHRr7gmhd4
+- name: Code
+  url: https://github.com/SliencerX/Learning-to-Attack-Federated-Learning
 url_dataset: '#'
 url_poster: ''
 url_project: ''
