@@ -38,10 +38,10 @@ education:
   courses:
     - course: PhD Candidate in Computer Science
       institution: Tulane University
-      year: Present
-    - course: Bachelor of Arts in Artificial Intelligence
+      year: 2020 - Present
+    - course: Bachelor of Arts in Mathematical Economics and Computer Science
       institution: Colgate University
-      year: 2020
+      year: 2016 - 2020
 
 # Skills
 # For available icons, see: https://hugoblox.com/docs/getting-started/page-builder/#icons
@@ -70,7 +70,7 @@ skills:
       - name: Computer Hardwares
         description: ''
         percent: 80
-        icon: computer-classic
+        icon: computer
         icon_pack: fas
 
 # Social/Academic Networking
@@ -78,9 +78,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -95,7 +95,7 @@ social:
     link: https://github.com/SliencerX
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xiaolin-sun-0b8aa212b 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -106,7 +106,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Xiaolin Sun is a forth year PhD Candidate advised by Dr.Zizhan Zheng at Computer Science Department of Tulane University. His research interests include Reinforcement Learning, Multi-agent Reinforcement Learning and Robust Reinforcement Learning. {style="text-align: justify;"}
+Xiaolin Sun is a forth year PhD Candidate advised by Dr.Zizhan Zheng at Computer Science Department of Tulane University. His research interests include Reinforcement Learning, Multi-agent Reinforcement Learning and Robust Reinforcement Learning. 
+{style="text-align: justify;"}
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"} -->
