@@ -13,10 +13,6 @@ publishDate: '2023-11-08T19:57:01.414326Z'
 publication_types: 'paper-conference'
 publication: '*Advances in Neural Information Processing Systems*'
 
-tags:
-- []
-featured: true
-
 links:
 - name: Custom Link
   url: http://example.org
