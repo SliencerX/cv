@@ -30,8 +30,8 @@ bio: My research interests include Robust Reinforcement Learning, Multi-agent Re
 # Interests to show in About widget
 interests:
   - Reinforcement Learning
-  - Robust Reinforcement Learning
-  - Multi-agent Reinforcement Learning
+  - Adversarial Machine Learning
+  - Multi-agent Learning
 
 # Education to show in About widget
 education:
