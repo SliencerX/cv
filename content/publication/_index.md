@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+id: Publications
 
 # View.
 #   1 = List
